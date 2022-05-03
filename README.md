@@ -1,4 +1,4 @@
-# credit_card_app
+# Credit Card App
 
 A new Flutter project.
 
